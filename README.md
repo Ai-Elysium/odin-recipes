@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to create a website with a main index page and links to recipes. It will be created for the purpose of demonstrating my html knowledge up to this point. That includes: naming and organizing of files, utilizing a variety of html elements, and using git commands to show progress on this project.
